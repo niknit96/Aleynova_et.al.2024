@@ -1,0 +1,59 @@
+Sample	SRA	BioProject	Location	Location_short	Latitude	Longitude	Plant	Plant_part	Organ_material	Year	Season	Species	location
+S1	SRR29528529	PRJNA1127768	Vladivostok, st. Borodinskaya 17	Vladivostok 	43,165452	131,920079	Pc-1	Shoot_system	Leaf	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S2	SRR29528528	PRJNA1127768	Vladivostok, st. Borodinskaya 17	Vladivostok 	43,165452	131,920079	Pc-1	Shoot_system	Leaf	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S3	SRR29528502	PRJNA1127768	Vladivostok, st. Borodinskaya 17	Vladivostok 	43,165452	131,920079	Pc-1	Shoot_system	Stem	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S4	SRR29528501	PRJNA1127768	Vladivostok, st. Borodinskaya 17	Vladivostok 	43,165452	131,920079	Pc-1	Shoot_system	Stem	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S5	SRR29528500	PRJNA1127768	Vladivostok, st. Borodinskaya 17	Vladivostok 	43,165452	131,920079	Pc-1	Root_system	Root	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S6	SRR29528499	PRJNA1127768	Vladivostok, st. Borodinskaya 17	Vladivostok 	43,165452	131,920079	Pc-1	Root_system	Root	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S7	SRR29528498	PRJNA1127768	Vladivostok, st. Russian 58В	Vladivostok 	43,167563	131,919288	Pc-2	Shoot_system	Leaf	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S8	SRR29528497	PRJNA1127768	Vladivostok, st. Russian 58В	Vladivostok 	43,167563	131,919288	Pc-2	Shoot_system	Leaf	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S9	SRR29528496	PRJNA1127768	Vladivostok, st. Russian 58В	Vladivostok 	43,167563	131,919288	Pc-2	Shoot_system	Stem	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S10	SRR29528495	PRJNA1127768	Vladivostok, st. Russian 58В	Vladivostok 	43,167563	131,919288	Pc-2	Shoot_system	Stem	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S11	SRR29528470	PRJNA1127768	Vladivostok, st. Russian 58В	Vladivostok 	43,167563	131,919288	Pc-2	Root_system	Root	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S12	SRR29528469	PRJNA1127768	Vladivostok, st. Russian 58В	Vladivostok 	43,167563	131,919288	Pc-2	Root_system	Root	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S13	SRR29528467	PRJNA1127768	Vladivostok, 100-letiya Vladivostoka Avenue, 159А	Vladivostok 	43,190402	131,923699	Pc-3	Shoot_system	Leaf	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S14	SRR29528466	PRJNA1127768	Vladivostok, 100-letiya Vladivostoka Avenue, 159А	Vladivostok 	43,190402	131,923699	Pc-3	Shoot_system	Leaf	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S15	SRR29528465	PRJNA1127768	Vladivostok, 100-letiya Vladivostoka Avenue, 159А	Vladivostok 	43,190402	131,923699	Pc-3	Shoot_system	Stem	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S16	SRR29528464	PRJNA1127768	Vladivostok, 100-letiya Vladivostoka Avenue, 159А	Vladivostok 	43,190402	131,923699	Pc-3	Shoot_system	Stem	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S17	SRR29528463	PRJNA1127768	Vladivostok, 100-letiya Vladivostoka Avenue, 159А	Vladivostok 	43,190402	131,923699	Pc-3	Root_system	Root	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S18	SRR29528446	PRJNA1127768	Vladivostok, 100-letiya Vladivostoka Avenue, 159А	Vladivostok 	43,190402	131,923699	Pc-3	Root_system	Root	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S19	SRR29528445	PRJNA1127768	Solnechnaya street, Gorno-Tayozhnoye village, Ussuri urban district, Primorsky Krai	Gorno-Tayozhnoye village	43,696756	132,157989	Pc-4	Shoot_system	Leaf	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S20	SRR29528444	PRJNA1127768	Solnechnaya street, Gorno-Tayozhnoye village, Ussuri urban district, Primorsky Krai	Gorno-Tayozhnoye village	43,696756	132,157989	Pc-4	Shoot_system	Leaf	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S21	SRR29528443	PRJNA1127768	Solnechnaya street, Gorno-Tayozhnoye village, Ussuri urban district, Primorsky Krai	Gorno-Tayozhnoye village	43,696756	132,157989	Pc-4	Shoot_system	Stem	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S22	SRR29528442	PRJNA1127768	Solnechnaya street, Gorno-Tayozhnoye village, Ussuri urban district, Primorsky Krai	Gorno-Tayozhnoye village	43,696756	132,157989	Pc-4	Shoot_system	Stem	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S23	SRR29528440	PRJNA1127768	Solnechnaya street, Gorno-Tayozhnoye village, Ussuri urban district, Primorsky Krai	Gorno-Tayozhnoye village	43,696756	132,157989	Pc-4	Root_system	Root	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S24	SRR29528439	PRJNA1127768	Solnechnaya street, Gorno-Tayozhnoye village, Ussuri urban district, Primorsky Krai	Gorno-Tayozhnoye village	43,696756	132,157989	Pc-4	Root_system	Root	2023	Spring	Polygonum cuspidatum	Primorsky_Krai
+S25	SRR29528526	PRJNA1127768	Vladivostok, st. Borodinskaya 17	Vladivostok 	43,165452	131,920079	Pc-1	Shoot_system	Leaf	2023	Autumn	Polygonum cuspidatum	Primorsky_Krai
+S26	SRR29528525	PRJNA1127768	Vladivostok, st. Borodinskaya 17	Vladivostok 	43,165452	131,920079	Pc-1	Shoot_system	Leaf	2023	Autumn	Polygonum cuspidatum	Primorsky_Krai
+S27	SRR29528524	PRJNA1127768	Vladivostok, st. Borodinskaya 17	Vladivostok 	43,165452	131,920079	Pc-1	Shoot_system	Stem	2023	Autumn	Polygonum cuspidatum	Primorsky_Krai
+S28	SRR29528523	PRJNA1127768	Vladivostok, st. Borodinskaya 17	Vladivostok 	43,165452	131,920079	Pc-1	Shoot_system	Stem	2023	Autumn	Polygonum cuspidatum	Primorsky_Krai
+S29	SRR29528522	PRJNA1127768	Vladivostok, st. Borodinskaya 17	Vladivostok 	43,165452	131,920079	Pc-1	Root_system	Root	2023	Autumn	Polygonum cuspidatum	Primorsky_Krai
+S30	SRR29528521	PRJNA1127768	Vladivostok, st. Borodinskaya 17	Vladivostok 	43,165452	131,920079	Pc-1	Root_system	Root	2023	Autumn	Polygonum cuspidatum	Primorsky_Krai
+S31	SRR29528520	PRJNA1127768	Vladivostok, st. Russian 58В	Vladivostok 	43,167563	131,919288	Pc-2	Shoot_system	Leaf	2023	Autumn	Polygonum cuspidatum	Primorsky_Krai
+S32	SRR29528519	PRJNA1127768	Vladivostok, st. Russian 58В	Vladivostok 	43,167563	131,919288	Pc-2	Shoot_system	Leaf	2023	Autumn	Polygonum cuspidatum	Primorsky_Krai
+S33	SRR29528493	PRJNA1127768	Vladivostok, st. Russian 58В	Vladivostok 	43,167563	131,919288	Pc-2	Shoot_system	Stem	2023	Autumn	Polygonum cuspidatum	Primorsky_Krai
+S34	SRR29528492	PRJNA1127768	Vladivostok, st. Russian 58В	Vladivostok 	43,167563	131,919288	Pc-2	Shoot_system	Stem	2023	Autumn	Polygonum cuspidatum	Primorsky_Krai
+S35	SRR29528491	PRJNA1127768	Vladivostok, st. Russian 58В	Vladivostok 	43,167563	131,919288	Pc-2	Root_system	Root	2023	Autumn	Polygonum cuspidatum	Primorsky_Krai
+S36	SRR29528490	PRJNA1127768	Vladivostok, st. Russian 58В	Vladivostok 	43,167563	131,919288	Pc-2	Root_system	Root	2023	Autumn	Polygonum cuspidatum	Primorsky_Krai
+S37	SRR29528489	PRJNA1127768	Vladivostok, st. Russian 58В	Vladivostok 	43,167563	131,919288	Pc-2	Shoot_system	Flower	2023	Autumn	Polygonum cuspidatum	Primorsky_Krai
+S38	SRR29528488	PRJNA1127768	Vladivostok, st. Russian 58В	Vladivostok 	43,167563	131,919288	Pc-2	Shoot_system	Flower	2023	Autumn	Polygonum cuspidatum	Primorsky_Krai
+S39	SRR29528487	PRJNA1127768	Aniva urban district, Sakhalin region	Aniva urban district	46,854018	142,571455	Pc1-Sakh	Shoot_system	Leaf	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S40	SRR29528438	PRJNA1127768	Aniva urban district, Sakhalin region	Aniva urban district	46,854018	142,571455	Pc1-Sakh	Shoot_system	Leaf	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S41	SRR29528437	PRJNA1127768	Aniva urban district, Sakhalin region	Aniva urban district	46,854018	142,571455	Pc1-Sakh	Shoot_system	Stem	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S42	SRR29528436	PRJNA1127768	Aniva urban district, Sakhalin region	Aniva urban district	46,854018	142,571455	Pc1-Sakh	Shoot_system	Stem	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S43	SRR29528548	PRJNA1127768	Aniva urban district, Sakhalin region	Aniva urban district	46,854018	142,571455	Pc1-Sakh	Root_system	Root	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S44	SRR29528547	PRJNA1127768	Aniva urban district, Sakhalin region	Aniva urban district	46,854018	142,571455	Pc1-Sakh	Root_system	Root	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S45	SRR29528546	PRJNA1127768	Aniva urban district, Sakhalin region	Aniva urban district	46,771735	142,520658	Pc2-Sakh	Shoot_system	Leaf	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S46	SRR29528545	PRJNA1127768	Aniva urban district, Sakhalin region	Aniva urban district	46,771735	142,520658	Pc2-Sakh	Shoot_system	Leaf	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S47	SRR29528544	PRJNA1127768	Aniva urban district, Sakhalin region	Aniva urban district	46,771735	142,520658	Pc2-Sakh	Shoot_system	Stem	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S48	SRR29528543	PRJNA1127768	Aniva urban district, Sakhalin region	Aniva urban district	46,771735	142,520658	Pc2-Sakh	Shoot_system	Stem	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S49	SRR29528518	PRJNA1127768	Aniva urban district, Sakhalin region	Aniva urban district	46,771735	142,520658	Pc2-Sakh	Root_system	Root	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S50	SRR29528517	PRJNA1127768	Aniva urban district, Sakhalin region	Aniva urban district	46,771735	142,520658	Pc2-Sakh	Root_system	Root	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S51	SRR29528516	PRJNA1127768	Aniva urban district, Sakhalin region	Aniva urban district	46,771735	142,520658	Pc2-Sakh	Shoot_system	Seed	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S52	SRR29528515	PRJNA1127768	Aniva urban district, Sakhalin region	Aniva urban district	46,771735	142,520658	Pc2-Sakh	Shoot_system	Seed	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S53	SRR29528513	PRJNA1127768	Kholmsky urban district, Sakhalin region	Kholmsky urban district	47,057867	142.130470	Pc3-Sakh	Shoot_system	Leaf	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S54	SRR29528512	PRJNA1127768	Kholmsky urban district, Sakhalin region	Kholmsky urban district	47,057867	142.130470	Pc3-Sakh	Shoot_system	Leaf	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S55	SRR29528511	PRJNA1127768	Kholmsky urban district, Sakhalin region	Kholmsky urban district	47,057867	142.130470	Pc3-Sakh	Shoot_system	Stem	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S56	SRR29528486	PRJNA1127768	Kholmsky urban district, Sakhalin region	Kholmsky urban district	47,057867	142.130470	Pc3-Sakh	Shoot_system	Stem	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S57	SRR29528485	PRJNA1127768	Kholmsky urban district, Sakhalin region	Kholmsky urban district	47,057867	142.130470	Pc3-Sakh	Root_system	Root	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
+S58	SRR29528484	PRJNA1127768	Kholmsky urban district, Sakhalin region	Kholmsky urban district	47,057867	142.130470	Pc3-Sakh	Root_system	Root	2023	Autumn	Polygonum cuspidatum	Sakhalin_Oblast
